@@ -1,0 +1,23 @@
+{
+  "name": "turnhat-website",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turnhat/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turnhat/website/issues"
+  },
+  "homepage": "https://github.com/turnhat/website#readme",
+  "devDependencies": {
+    "serve": "14.0.1"
+  }
+}
